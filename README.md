@@ -1,5 +1,5 @@
 # makeansi: Snappy ANSI Startup Screens for FoxPro/DOS
-![MakeANSI Screen](/images/makeansi.gif)
+![MakeANSI Screen](/images/makeansi.png)
 
 Create ANSI-screen codes for FoxPro DOS startup screens: fill in that long pause while
 FoxPro/DOS starts up and loads its runtime with a colorful animated splash screen.
